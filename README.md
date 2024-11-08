@@ -1,9 +1,9 @@
 <div align="left">
-  <a href="www.linkedin.com/in/davidlimacardoso"> 
-    <img height="18em" src="https://firebasestorage.googleapis.com/v0/b/natan-35907.appspot.com/o/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465.svg?alt=media&token=2b238eb6-03db-4ed8-9f86-0ce2689f53df" alt="davidlimacardoso"/>
-  </a>
   <a href="mailto:david.lima.cd@gmail.com">
     <img height="18em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="davidlimacardoso"/>
+  </a>
+  <a href="https://linkedin.com/in/davidlimacardoso"> 
+    <img height="18em" src="https://firebasestorage.googleapis.com/v0/b/natan-35907.appspot.com/o/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465.svg?alt=media&token=2b238eb6-03db-4ed8-9f86-0ce2689f53df" alt="davidlimacardoso"/>
   </a>
 </div>
 
