@@ -22,7 +22,7 @@ Postgraduated in Software Engineering | AWS Certified | Datadog | IaC | Automati
 
 <div align="center">
   <a href="https://github.com/davidlimacardoso">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=davidlimacardoso&column=8&theme=gotham&no-frame=true&no-bg=true"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=davidlimacardoso&column=8&theme=gotham&no-bg=true"/>
   </a>
 </div>
 
